@@ -1,0 +1,22 @@
+baseURL: https://sujant.xyz/
+languageCode: en-us
+title: sujānt kumar kv
+theme: PaperMod
+params:
+  defaultTheme: dark
+  homeInfoParams:
+    Title: "konnichiwa \U0001F44B"
+    Content: >-
+      there's an infintesimally negligible probablisitic chance of you doing what you're doing currently & landing here. so, welcome to my corner of the internet.
+  socialIcons:
+    - name: email
+      url: 'mailto:sujantdev@gmail.com'
+    - name: x
+      url: 'https://x.com/sujantkumarkv'
+    - name: github
+      url: 'https://github.com/sujantkumarkv'
+assets:
+  favicon16x16: /assets/favicon-16x16.png
+  favicon32x32: /assets/favicon-32x32.png
+  apple_touch_icon: /assets/apple-touch-icon.png
+favicon: favicon.ico
