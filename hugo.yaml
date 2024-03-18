@@ -20,3 +20,13 @@ assets:
   favicon32x32: /assets/favicon-32x32.png
   apple_touch_icon: /assets/apple-touch-icon.png
 favicon: favicon.ico
+menu:
+  main:
+  - identifier: home
+    name: Home
+    url: /
+    weight: 10
+  - identifier: posts
+    name: Blog
+    url: /posts/
+    weight: 20
